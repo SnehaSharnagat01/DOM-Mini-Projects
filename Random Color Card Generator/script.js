@@ -43,7 +43,6 @@ btn.addEventListener("click", function () {
     var g = Math.floor(Math.random() * 256)
     var b = Math.floor(Math.random() * 256)
     div.style.backgroundColor = `rgb(${r}, ${g}, ${b})`
-
     document.body.appendChild(div)
 
 })

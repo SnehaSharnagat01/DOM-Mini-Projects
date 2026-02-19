@@ -13,11 +13,11 @@ var img1 = document.createElement("img");
 var img2 = document.createElement("img");
 img1.style.height = "100%"
 img1.style.width = "100%"
-img1.style.objectFit = "cover"
+// img1.style.objectFit = "cover"
 img1.style.borderRadius = "50px"
 img2.style.height = "100%"
 img2.style.width = "100%"
-img2.style.objectFit = "cover"
+// img2.style.objectFit = "cover"
 img2.style.borderRadius = "50px"
 
 
