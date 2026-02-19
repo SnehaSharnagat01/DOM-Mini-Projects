@@ -1,3 +1,10 @@
+// ## 1. Dice Game
+
+// Create two dice images dynamically using `document.createElement()`. Use
+// `Math.random()` to generate numbers (1--6). Display both dice results
+// and show the winner based on the higher number. Render everything
+// dynamically using `append()` or `appendChild()`.
+
 var btn = document.querySelector("button");
 var h1 = document.querySelector("h1");
 var box1 = document.querySelector(".box1");
